@@ -3,3 +3,4 @@
 (add-to-list 'default-frame-alist '(font . "DejaVu Sans Mono 22" ))
 (set-face-attribute 'default t :font "DejaVu Sans Mono 22" )
 (tool-bar-mode -1)
+(add-to-list 'default-frame-alist '(fullscreen . maximized))
